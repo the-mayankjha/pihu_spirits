@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "type": "spirits",
+  "id": "mayank",
+  "name": "mayank",
+  "display_name": "Mayank",
+  "description": "A developer companion for PIHU OS.",
+  "version": "1.0.0",
+  "author": "PIHU",
+  "category": "Spirits",
+  "tags": [
+    "developer"
+  ],
+  "assets": {
+    "sprite_sheet": "spritesheet-extended.png"
+  },
+  "supported_features": [
+    "sprite-animation"
+  ]
+}

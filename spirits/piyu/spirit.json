@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "type": "spirits",
+  "id": "piyu",
+  "name": "piyu",
+  "display_name": "Piyu",
+  "description": "A cheerful companion who brings warmth, encouragement and playful energy.",
+  "version": "1.0.0",
+  "author": "PIHU",
+  "category": "Spirits",
+  "tags": [
+    "companion"
+  ],
+  "assets": {
+    "sprite_sheet": "spritesheet-extended.png"
+  },
+  "supported_features": [
+    "sprite-animation"
+  ]
+}

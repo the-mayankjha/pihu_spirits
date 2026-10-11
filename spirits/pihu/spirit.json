@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "type": "spirits",
+  "id": "pihu",
+  "name": "pihu",
+  "display_name": "Pihu",
+  "description": "A friendly companion who is ready to lend a hand.",
+  "version": "1.0.0",
+  "author": "PIHU",
+  "category": "Spirits",
+  "tags": [
+    "companion"
+  ],
+  "assets": {
+    "sprite_sheet": "spritesheet-extended.png"
+  },
+  "supported_features": [
+    "sprite-animation"
+  ]
+}

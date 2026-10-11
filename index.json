@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "package_type": "spirits",
+  "packages": [
+    {
+      "id": "mayank",
+      "name": "Mayank",
+      "description": "A developer companion for PIHU OS.",
+      "version": "1.0.0",
+      "manifest": "spirits/mayank/spirit.json",
+      "sprite_sheet": "spirits/mayank/spritesheet-extended.png",
+      "sha256": "9600337a3808e17aee6f249e9dc66c9ec668cb0161bd745f2beb6a03fb2c1f8d",
+      "size_bytes": 2970393
+    },
+    {
+      "id": "pihu",
+      "name": "Pihu",
+      "description": "A friendly companion who is ready to lend a hand.",
+      "version": "1.0.0",
+      "manifest": "spirits/pihu/spirit.json",
+      "sprite_sheet": "spirits/pihu/spritesheet-extended.png",
+      "sha256": "917ce8111ab0a33d151b2fbd778a7a3a9d54b5b94ba1d1680dbfd17feb5ccbfa",
+      "size_bytes": 3191906
+    },
+    {
+      "id": "pihu-v2",
+      "name": "Pihu v2",
+      "description": "A curious companion with curly dark hair, pink glasses and a floral kurti.",
+      "version": "1.0.0",
+      "manifest": "spirits/pihu-v2/spirit.json",
+      "sprite_sheet": "spirits/pihu-v2/spritesheet-extended.png",
+      "sha256": "2d5e297243c10cdfed7af33e6546843cddf6aaad3eba2f1906c84477174c6adf",
+      "size_bytes": 2925295
+    },
+    {
+      "id": "pihu-v3",
+      "name": "Pihu v3",
+      "description": "A cheerful companion with long dark curls, pink glasses and a floral kurta.",
+      "version": "1.0.0",
+      "manifest": "spirits/pihu-v3/spirit.json",
+      "sprite_sheet": "spirits/pihu-v3/spritesheet-extended.png",
+      "sha256": "917ce8111ab0a33d151b2fbd778a7a3a9d54b5b94ba1d1680dbfd17feb5ccbfa",
+      "size_bytes": 3191906
+    },
+    {
+      "id": "piyu",
+      "name": "Piyu",
+      "description": "A cheerful companion who brings warmth, encouragement and playful energy.",
+      "version": "1.0.0",
+      "manifest": "spirits/piyu/spirit.json",
+      "sprite_sheet": "spirits/piyu/spritesheet-extended.png",
+      "sha256": "a0f144390ea896d82b80d0a9d76c657fc774fc9c4bb9357f4369e3a9ae4e679f",
+      "size_bytes": 2696541
+    }
+  ]
+}

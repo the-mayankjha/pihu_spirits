@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "type": "spirits",
+  "id": "pihu-v3",
+  "name": "pihu-v3",
+  "display_name": "Pihu v3",
+  "description": "A cheerful companion with long dark curls, pink glasses and a floral kurta.",
+  "version": "1.0.0",
+  "author": "PIHU",
+  "category": "Spirits",
+  "tags": [
+    "companion"
+  ],
+  "assets": {
+    "sprite_sheet": "spritesheet-extended.png"
+  },
+  "supported_features": [
+    "sprite-animation"
+  ]
+}
