@@ -12,7 +12,23 @@
     "companion"
   ],
   "assets": {
-    "sprite_sheet": "spritesheet-extended.png"
+    "sprite_sheet": "spritesheet-extended.png",
+    "talking_frames": "final/tts-visemes/",
+    "listening_frames": "interactions/listening/strips/",
+    "interaction_cheek-touch": "interactions/cheek-touch/",
+    "interaction_fight": "interactions/fight/",
+    "interaction_handshake": "interactions/handshake/",
+    "interaction_high-five": "interactions/high-five/",
+    "interaction_hug": "interactions/hug/",
+    "interaction_jealous": "interactions/jealous/",
+    "interaction_laughing": "interactions/laughing/",
+    "interaction_listening": "interactions/listening/",
+    "interaction_looking": "interactions/looking/",
+    "interaction_mediating": "interactions/mediating/",
+    "interaction_reconcile": "interactions/reconcile/",
+    "interaction_smiling": "interactions/smiling/",
+    "interaction_talking": "interactions/talking/",
+    "interaction_turning": "interactions/turning/"
   },
   "supported_features": [
     "sprite-animation"

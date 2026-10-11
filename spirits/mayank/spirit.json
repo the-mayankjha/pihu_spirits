@@ -12,7 +12,9 @@
     "developer"
   ],
   "assets": {
-    "sprite_sheet": "spritesheet-extended.png"
+    "sprite_sheet": "spritesheet-extended.png",
+    "listening_frames": "interactions/listening/strips/",
+    "interaction_listening": "interactions/listening/"
   },
   "supported_features": [
     "sprite-animation"

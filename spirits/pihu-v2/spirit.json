@@ -12,7 +12,10 @@
     "companion"
   ],
   "assets": {
-    "sprite_sheet": "spritesheet-extended.png"
+    "sprite_sheet": "spritesheet-extended.png",
+    "listening_state": "states/listening.png",
+    "thinking_state": "states/thinking.png",
+    "talking_frames": "final/tts-visemes/"
   },
   "supported_features": [
     "sprite-animation"

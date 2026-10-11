@@ -10,7 +10,34 @@
       "manifest": "spirits/mayank/spirit.json",
       "sprite_sheet": "spirits/mayank/spritesheet-extended.png",
       "sha256": "9600337a3808e17aee6f249e9dc66c9ec668cb0161bd745f2beb6a03fb2c1f8d",
-      "size_bytes": 2970393
+      "size_bytes": 2970393,
+      "files": [
+        {
+          "path": "spirits/mayank/interactions/listening/strips/00.png",
+          "sha256": "9f2f099819ae6dbcf30bfe120b2970bdf622f29896897bc5f8774c0378998ad8",
+          "size_bytes": 165347
+        },
+        {
+          "path": "spirits/mayank/interactions/listening/strips/01.png",
+          "sha256": "9ff65338c40dcdf72435c586b246227860344229bb9a649c14c1ae657cacdd9c",
+          "size_bytes": 165389
+        },
+        {
+          "path": "spirits/mayank/interactions/listening/strips/02.png",
+          "sha256": "4dd7f6fbece5728d789bffaed772d4a6c0adcc5cdacc06e9c667fa3633ef58d0",
+          "size_bytes": 172384
+        },
+        {
+          "path": "spirits/mayank/interactions/listening/strips/03.png",
+          "sha256": "e8ee4eaa73c50acd03905d0d22aceec6093dd5656e59ef286da0bbd6adf78370",
+          "size_bytes": 163765
+        },
+        {
+          "path": "spirits/mayank/spritesheet-extended.png",
+          "sha256": "9600337a3808e17aee6f249e9dc66c9ec668cb0161bd745f2beb6a03fb2c1f8d",
+          "size_bytes": 2970393
+        }
+      ]
     },
     {
       "id": "pihu",
@@ -20,7 +47,394 @@
       "manifest": "spirits/pihu/spirit.json",
       "sprite_sheet": "spirits/pihu/spritesheet-extended.png",
       "sha256": "917ce8111ab0a33d151b2fbd778a7a3a9d54b5b94ba1d1680dbfd17feb5ccbfa",
-      "size_bytes": 3191906
+      "size_bytes": 3191906,
+      "files": [
+        {
+          "path": "spirits/pihu/final/tts-visemes/00-REST-mouth.png",
+          "sha256": "8b2f94185e684c889dec2d8aa5ceb47c8d4ebb18dfeb22145d2c3b13f4620021",
+          "size_bytes": 8029
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/00-REST.png",
+          "sha256": "8ca552f8f296c60a80797db35823a0390139cb407949989230076d26f8a217cc",
+          "size_bytes": 41411
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/01-MBP-mouth.png",
+          "sha256": "8640d255223ba2f8d181cd6af39c966e6f8aa5469773fd4d35709843e0692ade",
+          "size_bytes": 8017
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/01-MBP.png",
+          "sha256": "ace4526d00bd8ac5a08a1859d82186e5dec4bab4395ae21b59333c1cc4e38581",
+          "size_bytes": 43609
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/02-AA-mouth.png",
+          "sha256": "1b1b0218a572b0b99827e0714b1358e1882272d7e9401d7f65964c193aa14d59",
+          "size_bytes": 8111
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/02-AA.png",
+          "sha256": "a4d6c4e5b8f7446a59fa09907d18256a64bd1de5955bb5632f59b773b492e72d",
+          "size_bytes": 43655
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/03-EE-mouth.png",
+          "sha256": "9f4382f0163a0be731b4363baf6146169dc4b9cc1c8f76b22a9a0564b289e468",
+          "size_bytes": 8088
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/03-EE.png",
+          "sha256": "d54fccc2c66f32dd95759b1801d140c97868db014deded4fbbdcd74d665b2923",
+          "size_bytes": 43919
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/04-OH-mouth.png",
+          "sha256": "ad21f030bcba8622cb4737f866cf49e1fa73ae67060c6049ed1b5e558ec8e599",
+          "size_bytes": 8077
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/04-OH.png",
+          "sha256": "1ccaea2f8a7376d04985d306e970ad52c0d4dc67e644685f6ebb33522e9f7fc4",
+          "size_bytes": 43721
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/05-OO-mouth.png",
+          "sha256": "37ebe08f7cbe8a1599c0eea7a0beec0f0f1b95719798c9411c98bd88a34769bd",
+          "size_bytes": 8048
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/05-OO.png",
+          "sha256": "d10bf7c519ba344b8c4f54565a1da45c9da4b2dd70c763956b791e9281a9456a",
+          "size_bytes": 43398
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/06-FV-mouth.png",
+          "sha256": "99a10414c78287bbf7facd854437485c191b7838933ca4ddad17c3635519c777",
+          "size_bytes": 8043
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/06-FV.png",
+          "sha256": "f7c97ac44b7f27e3f93204e8874818f7f30712fbe32df0b4c135b50da294ca16",
+          "size_bytes": 43292
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/07-L-mouth.png",
+          "sha256": "b12d5d1830e74c3012b0f62f3f7cd51f1c04d43f832dfbf339a92a93df1146e1",
+          "size_bytes": 8088
+        },
+        {
+          "path": "spirits/pihu/final/tts-visemes/07-L.png",
+          "sha256": "c4d089b62192fc96c6654de9281dd5afcdaf1066091e893b5a0f0f1c65ef4033",
+          "size_bytes": 42686
+        },
+        {
+          "path": "spirits/pihu/interactions/cheek-touch/frames/00.png",
+          "sha256": "bf443e0db201efd0694d68d3807b25a1b2eea4b990b08077299b536f3e87428c",
+          "size_bytes": 80736
+        },
+        {
+          "path": "spirits/pihu/interactions/cheek-touch/frames/01.png",
+          "sha256": "ff494e7dab06b7372c093e4cfdb2053404252ac0b49752deaef6129ff3bcaf98",
+          "size_bytes": 76303
+        },
+        {
+          "path": "spirits/pihu/interactions/cheek-touch/frames/02.png",
+          "sha256": "fbe529bca9ca22c097db17616050bff346b31433655845ce4dd8f8664f8a90e5",
+          "size_bytes": 79912
+        },
+        {
+          "path": "spirits/pihu/interactions/cheek-touch/frames/03.png",
+          "sha256": "26fec940ccbf8df3951b62b37b135415cb9b0e9c04e201b14608a9a05518875a",
+          "size_bytes": 80188
+        },
+        {
+          "path": "spirits/pihu/interactions/fight/frames/00.png",
+          "sha256": "133314a2559914448bcecee4a13745c26304ccf4b993af2c01616ff1aa1d3f7c",
+          "size_bytes": 90287
+        },
+        {
+          "path": "spirits/pihu/interactions/fight/frames/01.png",
+          "sha256": "1717bae43f5809ebec9d93ab849e96b924d3f7a1cd5cc52bf5021fa61ab2f351",
+          "size_bytes": 91591
+        },
+        {
+          "path": "spirits/pihu/interactions/fight/frames/02.png",
+          "sha256": "d551c9c2cdfba1ffb4859734810807129f77e321a4c0691f5e298b587482b15e",
+          "size_bytes": 91750
+        },
+        {
+          "path": "spirits/pihu/interactions/fight/frames/03.png",
+          "sha256": "f5b050b72a23f84808ff24df894410021a81751d1bd70d39f3c8bf9fec31da1e",
+          "size_bytes": 90280
+        },
+        {
+          "path": "spirits/pihu/interactions/fight/frames/04.png",
+          "sha256": "893174d3db95bc917097f458f6b6f1cf6889a5a2ba46a79044fde3d8a22d4ad4",
+          "size_bytes": 91876
+        },
+        {
+          "path": "spirits/pihu/interactions/fight/frames/05.png",
+          "sha256": "50e5b24d385261ba820e4aaade79d1e31bce461e7521c707f2ece9f5831044c6",
+          "size_bytes": 92869
+        },
+        {
+          "path": "spirits/pihu/interactions/fight/frames/06.png",
+          "sha256": "4d7fc5447be4cb35dd03fc29eec0dcf5203400f8f9c6c40be4c1f5d786d850ab",
+          "size_bytes": 90407
+        },
+        {
+          "path": "spirits/pihu/interactions/fight/frames/07.png",
+          "sha256": "aea62b85e953fc0be3a501499573ae40de8d3c94292ec92fb4188a8b480b4181",
+          "size_bytes": 86487
+        },
+        {
+          "path": "spirits/pihu/interactions/handshake/frames/00.png",
+          "sha256": "2591d23b626be31f7fb5f71894c9d74602453e3ef34dd1bf2518e243cc051881",
+          "size_bytes": 87691
+        },
+        {
+          "path": "spirits/pihu/interactions/handshake/frames/01.png",
+          "sha256": "1abf85a87fb6a0fb239e7415e9b81c00694f922a7336f12d445417fa48d6c15e",
+          "size_bytes": 86436
+        },
+        {
+          "path": "spirits/pihu/interactions/handshake/frames/02.png",
+          "sha256": "8033378579748e072f62d99c5189020eea8ce1850fdfe2bdd973cc84cb6f1b14",
+          "size_bytes": 86139
+        },
+        {
+          "path": "spirits/pihu/interactions/handshake/frames/03.png",
+          "sha256": "6367493208f98ce6c73dc9513785463d25e1ee3d04250665f831a6c356f55f07",
+          "size_bytes": 83557
+        },
+        {
+          "path": "spirits/pihu/interactions/high-five/frames/00.png",
+          "sha256": "bdd8c367a55455824a5bb0445f83278c438e51e38fe5e837b30fcc4bc14b0df1",
+          "size_bytes": 93913
+        },
+        {
+          "path": "spirits/pihu/interactions/high-five/frames/01.png",
+          "sha256": "8c8109a8cfc9e097123d90cbbea0ca6e5f82767b20addf0d61ba2686a69c8ef5",
+          "size_bytes": 88722
+        },
+        {
+          "path": "spirits/pihu/interactions/high-five/frames/02.png",
+          "sha256": "c85a2a308730fd4fe51d64e3766e861df305bf797d98f024e90eb0d69383ffbc",
+          "size_bytes": 88735
+        },
+        {
+          "path": "spirits/pihu/interactions/high-five/frames/03.png",
+          "sha256": "5004ed5fde47ed86010abe280c2238e51df636799d0e1442436a00f226bbf5a3",
+          "size_bytes": 90697
+        },
+        {
+          "path": "spirits/pihu/interactions/hug/frames/00.png",
+          "sha256": "ece33b02eefb6f22cd5c5c148fefe1331f6fd5499780f4ba7b7905ffc215279d",
+          "size_bytes": 75989
+        },
+        {
+          "path": "spirits/pihu/interactions/hug/frames/01.png",
+          "sha256": "a55bf27950cf690ddba5db754108eb6fe120bdae4399c8874ceea55223a801c4",
+          "size_bytes": 73405
+        },
+        {
+          "path": "spirits/pihu/interactions/hug/frames/02.png",
+          "sha256": "5099e1e4da82c6bc9baec79e960b7d15dfca1329ff2a356c7afec663a80521a6",
+          "size_bytes": 69047
+        },
+        {
+          "path": "spirits/pihu/interactions/hug/frames/03.png",
+          "sha256": "933ee3317b3bbbdb6071574c1b0945ba55bcb424539ea2e3ddf0e70bcff749b1",
+          "size_bytes": 76411
+        },
+        {
+          "path": "spirits/pihu/interactions/jealous/frames/00.png",
+          "sha256": "df999dbf9b0e007d45b533ff9f070394ff131bfde58960fade84c94cc82360f7",
+          "size_bytes": 46320
+        },
+        {
+          "path": "spirits/pihu/interactions/jealous/frames/01.png",
+          "sha256": "458a30230efdd3046275e0ccef1bef178144170de7584729e2cc71a72056b112",
+          "size_bytes": 45847
+        },
+        {
+          "path": "spirits/pihu/interactions/jealous/frames/02.png",
+          "sha256": "3bc89516a015ef7655b92bc4c10bc8d95a87babcfe709e860c6534f614e298c0",
+          "size_bytes": 46681
+        },
+        {
+          "path": "spirits/pihu/interactions/jealous/frames/03.png",
+          "sha256": "b3ac042e760618c727d67dbe1169580efb271f59be2234a474decd75ab9da8d9",
+          "size_bytes": 45219
+        },
+        {
+          "path": "spirits/pihu/interactions/laughing/frames/00.png",
+          "sha256": "c6c1f9f62b9adc01c9d5cafb7330afd5075a2d6ee67440f03f7c22d69f15ec40",
+          "size_bytes": 75471
+        },
+        {
+          "path": "spirits/pihu/interactions/laughing/frames/01.png",
+          "sha256": "7bca7699da8e247f66f72764fa9bfc58bb596ffd5125896a5cba15d8497e39cd",
+          "size_bytes": 76785
+        },
+        {
+          "path": "spirits/pihu/interactions/laughing/frames/02.png",
+          "sha256": "68a56d9343c3763da23dc648baf414deabe25aadce20752b628077a7dd5da653",
+          "size_bytes": 76654
+        },
+        {
+          "path": "spirits/pihu/interactions/laughing/frames/03.png",
+          "sha256": "7a379e755ca00d3c3d17ccc4cad3413161b6bc4ab2410965fcf3da38f647188e",
+          "size_bytes": 76495
+        },
+        {
+          "path": "spirits/pihu/interactions/listening/strips/00.png",
+          "sha256": "f49ad10b1a8adf46932688ef8d4c23d5f0b525a3ebe0e538237dc8fe9774094d",
+          "size_bytes": 172904
+        },
+        {
+          "path": "spirits/pihu/interactions/listening/strips/01.png",
+          "sha256": "1dea448b3ba48403e637125d04705f2aa095b908af5c2d66feae63f9cffea96e",
+          "size_bytes": 171869
+        },
+        {
+          "path": "spirits/pihu/interactions/listening/strips/02.png",
+          "sha256": "ccf0f28ac6dcbea291e93bc5068503b975ea3c6f583f2d33ed014d507853a281",
+          "size_bytes": 175978
+        },
+        {
+          "path": "spirits/pihu/interactions/listening/strips/03.png",
+          "sha256": "d22bb2c957e22b8ee467b6209b81b106900928afec4d6be372ed8a9bb13fec45",
+          "size_bytes": 178236
+        },
+        {
+          "path": "spirits/pihu/interactions/looking/frames/00.png",
+          "sha256": "22b983f1c52620f17ee83c9edcfb427d439deb7e282dad1614df276c2bbd8d59",
+          "size_bytes": 76763
+        },
+        {
+          "path": "spirits/pihu/interactions/looking/frames/01.png",
+          "sha256": "acf390f6795da07491c3514861dea4d4ca0b66b84bf831c1246055080941ae95",
+          "size_bytes": 75151
+        },
+        {
+          "path": "spirits/pihu/interactions/looking/frames/02.png",
+          "sha256": "8fd71e930426d02d02f62d5fb48cbfb35c161ed481435e267d6f717905071038",
+          "size_bytes": 76379
+        },
+        {
+          "path": "spirits/pihu/interactions/looking/frames/03.png",
+          "sha256": "a7034b052a0eb66f15f3ca6ee78e434f6168f047deae4b51ad080184dd2c8aa0",
+          "size_bytes": 74945
+        },
+        {
+          "path": "spirits/pihu/interactions/mediating/frames/00.png",
+          "sha256": "fb093fa93e766e89b433d65e1b3b04a84798a177781cbddbdc6c70e47dcd7abb",
+          "size_bytes": 39683
+        },
+        {
+          "path": "spirits/pihu/interactions/mediating/frames/01.png",
+          "sha256": "24a4e216ded98fa7a450b5294788d42f2f89615c303d924d2a1883fcc506a394",
+          "size_bytes": 43301
+        },
+        {
+          "path": "spirits/pihu/interactions/mediating/frames/02.png",
+          "sha256": "5733abb525f164a74998f96954a5d7348544734c7d81e7edf33aabd96bb3b24b",
+          "size_bytes": 43216
+        },
+        {
+          "path": "spirits/pihu/interactions/mediating/frames/03.png",
+          "sha256": "4e3a1a318c84d0c900e0857e9cb02e16671df9902f9993c2da7ab2698c35d885",
+          "size_bytes": 39881
+        },
+        {
+          "path": "spirits/pihu/interactions/reconcile/frames/00.png",
+          "sha256": "879410a9dfa9b1c5d469d5f7c62f744be9fc83df9b8bd7af548f490ce142636b",
+          "size_bytes": 72491
+        },
+        {
+          "path": "spirits/pihu/interactions/reconcile/frames/01.png",
+          "sha256": "150adf8f51ceb763eb3a362b21a4abf053f59e8b6202f64f46b5d9eb3772d196",
+          "size_bytes": 77516
+        },
+        {
+          "path": "spirits/pihu/interactions/reconcile/frames/02.png",
+          "sha256": "0f8f929c1a2915ef4e636bbf4ea7c1ddb46104b305ef397d97d9c5e2aa6c5e42",
+          "size_bytes": 75819
+        },
+        {
+          "path": "spirits/pihu/interactions/reconcile/frames/03.png",
+          "sha256": "c2a96472c701a5ba2e7caa131434667d7a11a99545d7cd86c099a33806958dcd",
+          "size_bytes": 63645
+        },
+        {
+          "path": "spirits/pihu/interactions/smiling/frames/00.png",
+          "sha256": "0ddf8cea11a992423f931a7606ec0438d76369696a17f6b67fb6f2d225dc9040",
+          "size_bytes": 78784
+        },
+        {
+          "path": "spirits/pihu/interactions/smiling/frames/01.png",
+          "sha256": "751eb13ce10f8e1a789bc9d5643bef0c42ced2473672bfa200f832b0767c6708",
+          "size_bytes": 78432
+        },
+        {
+          "path": "spirits/pihu/interactions/smiling/frames/02.png",
+          "sha256": "681a5bf0901bddf77461c40a14802f52ba5798c5500c902d9c62d39ec7e7dbdb",
+          "size_bytes": 79184
+        },
+        {
+          "path": "spirits/pihu/interactions/smiling/frames/03.png",
+          "sha256": "f2c51e5697eb9c1cf18d6960b444241559f1dd6e3f676b55b656ad08b781cc80",
+          "size_bytes": 78427
+        },
+        {
+          "path": "spirits/pihu/interactions/talking/frames/00.png",
+          "sha256": "ff835a894f4421d4643daa9b1124399b43fd9312100990323c0c26f31cdc78de",
+          "size_bytes": 87701
+        },
+        {
+          "path": "spirits/pihu/interactions/talking/frames/01.png",
+          "sha256": "9397fa448e98582c1d0e3f7f3edcf04b9687f6cfb87187136444e34f4798af8c",
+          "size_bytes": 88734
+        },
+        {
+          "path": "spirits/pihu/interactions/talking/frames/02.png",
+          "sha256": "e23c8feb09441b49307186fc9234ceabc152f444baee25fe5d5c12a0f5226b66",
+          "size_bytes": 87794
+        },
+        {
+          "path": "spirits/pihu/interactions/talking/frames/03.png",
+          "sha256": "88d0f78372c15afc743d66819190efe6ec01d7604455c2eee789a10b105046a8",
+          "size_bytes": 87800
+        },
+        {
+          "path": "spirits/pihu/interactions/turning/frames/00.png",
+          "sha256": "bb63fec3d5eb9ab58a2a819710ab80912e8d3a6c7e1cc6407dd68094e30fda9f",
+          "size_bytes": 46522
+        },
+        {
+          "path": "spirits/pihu/interactions/turning/frames/01.png",
+          "sha256": "87abc0f7e537ed4d66cf779774ded877d551060486467879652bfa0a3cab1eeb",
+          "size_bytes": 46066
+        },
+        {
+          "path": "spirits/pihu/interactions/turning/frames/02.png",
+          "sha256": "2c7b59445c7d769cb282765c215581bbd20117aabd897456b42263f0b9a10022",
+          "size_bytes": 47050
+        },
+        {
+          "path": "spirits/pihu/interactions/turning/frames/03.png",
+          "sha256": "7d4bb4cec98c132ee03f8dbd6859cb6178c813b0d293e0f20da886726cf867ca",
+          "size_bytes": 45564
+        },
+        {
+          "path": "spirits/pihu/spritesheet-extended.png",
+          "sha256": "917ce8111ab0a33d151b2fbd778a7a3a9d54b5b94ba1d1680dbfd17feb5ccbfa",
+          "size_bytes": 3191906
+        }
+      ]
     },
     {
       "id": "pihu-v2",
@@ -30,7 +444,64 @@
       "manifest": "spirits/pihu-v2/spirit.json",
       "sprite_sheet": "spirits/pihu-v2/spritesheet-extended.png",
       "sha256": "2d5e297243c10cdfed7af33e6546843cddf6aaad3eba2f1906c84477174c6adf",
-      "size_bytes": 2925295
+      "size_bytes": 2925295,
+      "files": [
+        {
+          "path": "spirits/pihu-v2/final/tts-visemes/00.png",
+          "sha256": "0cb0372e69fba3d34794de33533f8ad3c44bb02ce0e21baa0c01818e3776efdc",
+          "size_bytes": 36090
+        },
+        {
+          "path": "spirits/pihu-v2/final/tts-visemes/01.png",
+          "sha256": "47e5ffd643581fee65e054ed2481357a16e5e5b35a07989ba7e3e0894aaeeddb",
+          "size_bytes": 37557
+        },
+        {
+          "path": "spirits/pihu-v2/final/tts-visemes/02.png",
+          "sha256": "7d75a6b48f6950c3693e9e05873d8e38c179af4e2efb2400f06880fdcbd24210",
+          "size_bytes": 37676
+        },
+        {
+          "path": "spirits/pihu-v2/final/tts-visemes/03.png",
+          "sha256": "63c9577f709243d3d1d537666f0484c9ab1a623ff12fad63ca5aef965a42b0e6",
+          "size_bytes": 37587
+        },
+        {
+          "path": "spirits/pihu-v2/final/tts-visemes/04.png",
+          "sha256": "0cb3baccf134b8ef33eca41e73036ab7eab1f9e00aa04348f6847defc6e11c43",
+          "size_bytes": 37482
+        },
+        {
+          "path": "spirits/pihu-v2/final/tts-visemes/05.png",
+          "sha256": "0a9c60fa82d059a5c485456bce9e24f3cb21f26ae9d466dcd400b21582f8c5d2",
+          "size_bytes": 37693
+        },
+        {
+          "path": "spirits/pihu-v2/final/tts-visemes/06.png",
+          "sha256": "d82c91b894b2b5a07d7b97d0479cd3a6997d8bb61ceb3e177d417cd852a1bbf9",
+          "size_bytes": 37380
+        },
+        {
+          "path": "spirits/pihu-v2/final/tts-visemes/07.png",
+          "sha256": "f3841da19a0c3f05cfaa4364ac390652e15126504a395b7acc9f53bc2d91f233",
+          "size_bytes": 37128
+        },
+        {
+          "path": "spirits/pihu-v2/spritesheet-extended.png",
+          "sha256": "2d5e297243c10cdfed7af33e6546843cddf6aaad3eba2f1906c84477174c6adf",
+          "size_bytes": 2925295
+        },
+        {
+          "path": "spirits/pihu-v2/states/listening.png",
+          "sha256": "63874c76d535adda6003fa14f34e877cc103bdda6135d75c9d4ae0ea2e21d1c7",
+          "size_bytes": 358964
+        },
+        {
+          "path": "spirits/pihu-v2/states/thinking.png",
+          "sha256": "617730c3fcc9b7deaa7520ed755ea1f92fcd105918e7f1b2999c456c6dedb4b4",
+          "size_bytes": 246147
+        }
+      ]
     },
     {
       "id": "pihu-v3",
@@ -40,7 +511,394 @@
       "manifest": "spirits/pihu-v3/spirit.json",
       "sprite_sheet": "spirits/pihu-v3/spritesheet-extended.png",
       "sha256": "917ce8111ab0a33d151b2fbd778a7a3a9d54b5b94ba1d1680dbfd17feb5ccbfa",
-      "size_bytes": 3191906
+      "size_bytes": 3191906,
+      "files": [
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/00-REST-mouth.png",
+          "sha256": "8b2f94185e684c889dec2d8aa5ceb47c8d4ebb18dfeb22145d2c3b13f4620021",
+          "size_bytes": 8029
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/00-REST.png",
+          "sha256": "8ca552f8f296c60a80797db35823a0390139cb407949989230076d26f8a217cc",
+          "size_bytes": 41411
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/01-MBP-mouth.png",
+          "sha256": "8640d255223ba2f8d181cd6af39c966e6f8aa5469773fd4d35709843e0692ade",
+          "size_bytes": 8017
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/01-MBP.png",
+          "sha256": "ace4526d00bd8ac5a08a1859d82186e5dec4bab4395ae21b59333c1cc4e38581",
+          "size_bytes": 43609
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/02-AA-mouth.png",
+          "sha256": "1b1b0218a572b0b99827e0714b1358e1882272d7e9401d7f65964c193aa14d59",
+          "size_bytes": 8111
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/02-AA.png",
+          "sha256": "a4d6c4e5b8f7446a59fa09907d18256a64bd1de5955bb5632f59b773b492e72d",
+          "size_bytes": 43655
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/03-EE-mouth.png",
+          "sha256": "9f4382f0163a0be731b4363baf6146169dc4b9cc1c8f76b22a9a0564b289e468",
+          "size_bytes": 8088
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/03-EE.png",
+          "sha256": "d54fccc2c66f32dd95759b1801d140c97868db014deded4fbbdcd74d665b2923",
+          "size_bytes": 43919
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/04-OH-mouth.png",
+          "sha256": "ad21f030bcba8622cb4737f866cf49e1fa73ae67060c6049ed1b5e558ec8e599",
+          "size_bytes": 8077
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/04-OH.png",
+          "sha256": "1ccaea2f8a7376d04985d306e970ad52c0d4dc67e644685f6ebb33522e9f7fc4",
+          "size_bytes": 43721
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/05-OO-mouth.png",
+          "sha256": "37ebe08f7cbe8a1599c0eea7a0beec0f0f1b95719798c9411c98bd88a34769bd",
+          "size_bytes": 8048
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/05-OO.png",
+          "sha256": "d10bf7c519ba344b8c4f54565a1da45c9da4b2dd70c763956b791e9281a9456a",
+          "size_bytes": 43398
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/06-FV-mouth.png",
+          "sha256": "99a10414c78287bbf7facd854437485c191b7838933ca4ddad17c3635519c777",
+          "size_bytes": 8043
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/06-FV.png",
+          "sha256": "f7c97ac44b7f27e3f93204e8874818f7f30712fbe32df0b4c135b50da294ca16",
+          "size_bytes": 43292
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/07-L-mouth.png",
+          "sha256": "b12d5d1830e74c3012b0f62f3f7cd51f1c04d43f832dfbf339a92a93df1146e1",
+          "size_bytes": 8088
+        },
+        {
+          "path": "spirits/pihu-v3/final/tts-visemes/07-L.png",
+          "sha256": "c4d089b62192fc96c6654de9281dd5afcdaf1066091e893b5a0f0f1c65ef4033",
+          "size_bytes": 42686
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/cheek-touch/frames/00.png",
+          "sha256": "bf443e0db201efd0694d68d3807b25a1b2eea4b990b08077299b536f3e87428c",
+          "size_bytes": 80736
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/cheek-touch/frames/01.png",
+          "sha256": "ff494e7dab06b7372c093e4cfdb2053404252ac0b49752deaef6129ff3bcaf98",
+          "size_bytes": 76303
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/cheek-touch/frames/02.png",
+          "sha256": "fbe529bca9ca22c097db17616050bff346b31433655845ce4dd8f8664f8a90e5",
+          "size_bytes": 79912
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/cheek-touch/frames/03.png",
+          "sha256": "26fec940ccbf8df3951b62b37b135415cb9b0e9c04e201b14608a9a05518875a",
+          "size_bytes": 80188
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/fight/frames/00.png",
+          "sha256": "133314a2559914448bcecee4a13745c26304ccf4b993af2c01616ff1aa1d3f7c",
+          "size_bytes": 90287
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/fight/frames/01.png",
+          "sha256": "1717bae43f5809ebec9d93ab849e96b924d3f7a1cd5cc52bf5021fa61ab2f351",
+          "size_bytes": 91591
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/fight/frames/02.png",
+          "sha256": "d551c9c2cdfba1ffb4859734810807129f77e321a4c0691f5e298b587482b15e",
+          "size_bytes": 91750
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/fight/frames/03.png",
+          "sha256": "f5b050b72a23f84808ff24df894410021a81751d1bd70d39f3c8bf9fec31da1e",
+          "size_bytes": 90280
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/fight/frames/04.png",
+          "sha256": "893174d3db95bc917097f458f6b6f1cf6889a5a2ba46a79044fde3d8a22d4ad4",
+          "size_bytes": 91876
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/fight/frames/05.png",
+          "sha256": "50e5b24d385261ba820e4aaade79d1e31bce461e7521c707f2ece9f5831044c6",
+          "size_bytes": 92869
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/fight/frames/06.png",
+          "sha256": "4d7fc5447be4cb35dd03fc29eec0dcf5203400f8f9c6c40be4c1f5d786d850ab",
+          "size_bytes": 90407
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/fight/frames/07.png",
+          "sha256": "aea62b85e953fc0be3a501499573ae40de8d3c94292ec92fb4188a8b480b4181",
+          "size_bytes": 86487
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/handshake/frames/00.png",
+          "sha256": "2591d23b626be31f7fb5f71894c9d74602453e3ef34dd1bf2518e243cc051881",
+          "size_bytes": 87691
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/handshake/frames/01.png",
+          "sha256": "1abf85a87fb6a0fb239e7415e9b81c00694f922a7336f12d445417fa48d6c15e",
+          "size_bytes": 86436
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/handshake/frames/02.png",
+          "sha256": "8033378579748e072f62d99c5189020eea8ce1850fdfe2bdd973cc84cb6f1b14",
+          "size_bytes": 86139
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/handshake/frames/03.png",
+          "sha256": "6367493208f98ce6c73dc9513785463d25e1ee3d04250665f831a6c356f55f07",
+          "size_bytes": 83557
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/high-five/frames/00.png",
+          "sha256": "bdd8c367a55455824a5bb0445f83278c438e51e38fe5e837b30fcc4bc14b0df1",
+          "size_bytes": 93913
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/high-five/frames/01.png",
+          "sha256": "8c8109a8cfc9e097123d90cbbea0ca6e5f82767b20addf0d61ba2686a69c8ef5",
+          "size_bytes": 88722
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/high-five/frames/02.png",
+          "sha256": "c85a2a308730fd4fe51d64e3766e861df305bf797d98f024e90eb0d69383ffbc",
+          "size_bytes": 88735
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/high-five/frames/03.png",
+          "sha256": "5004ed5fde47ed86010abe280c2238e51df636799d0e1442436a00f226bbf5a3",
+          "size_bytes": 90697
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/hug/frames/00.png",
+          "sha256": "ece33b02eefb6f22cd5c5c148fefe1331f6fd5499780f4ba7b7905ffc215279d",
+          "size_bytes": 75989
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/hug/frames/01.png",
+          "sha256": "a55bf27950cf690ddba5db754108eb6fe120bdae4399c8874ceea55223a801c4",
+          "size_bytes": 73405
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/hug/frames/02.png",
+          "sha256": "5099e1e4da82c6bc9baec79e960b7d15dfca1329ff2a356c7afec663a80521a6",
+          "size_bytes": 69047
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/hug/frames/03.png",
+          "sha256": "933ee3317b3bbbdb6071574c1b0945ba55bcb424539ea2e3ddf0e70bcff749b1",
+          "size_bytes": 76411
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/jealous/frames/00.png",
+          "sha256": "df999dbf9b0e007d45b533ff9f070394ff131bfde58960fade84c94cc82360f7",
+          "size_bytes": 46320
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/jealous/frames/01.png",
+          "sha256": "458a30230efdd3046275e0ccef1bef178144170de7584729e2cc71a72056b112",
+          "size_bytes": 45847
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/jealous/frames/02.png",
+          "sha256": "3bc89516a015ef7655b92bc4c10bc8d95a87babcfe709e860c6534f614e298c0",
+          "size_bytes": 46681
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/jealous/frames/03.png",
+          "sha256": "b3ac042e760618c727d67dbe1169580efb271f59be2234a474decd75ab9da8d9",
+          "size_bytes": 45219
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/laughing/frames/00.png",
+          "sha256": "c6c1f9f62b9adc01c9d5cafb7330afd5075a2d6ee67440f03f7c22d69f15ec40",
+          "size_bytes": 75471
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/laughing/frames/01.png",
+          "sha256": "7bca7699da8e247f66f72764fa9bfc58bb596ffd5125896a5cba15d8497e39cd",
+          "size_bytes": 76785
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/laughing/frames/02.png",
+          "sha256": "68a56d9343c3763da23dc648baf414deabe25aadce20752b628077a7dd5da653",
+          "size_bytes": 76654
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/laughing/frames/03.png",
+          "sha256": "7a379e755ca00d3c3d17ccc4cad3413161b6bc4ab2410965fcf3da38f647188e",
+          "size_bytes": 76495
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/listening/strips/00.png",
+          "sha256": "f49ad10b1a8adf46932688ef8d4c23d5f0b525a3ebe0e538237dc8fe9774094d",
+          "size_bytes": 172904
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/listening/strips/01.png",
+          "sha256": "1dea448b3ba48403e637125d04705f2aa095b908af5c2d66feae63f9cffea96e",
+          "size_bytes": 171869
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/listening/strips/02.png",
+          "sha256": "ccf0f28ac6dcbea291e93bc5068503b975ea3c6f583f2d33ed014d507853a281",
+          "size_bytes": 175978
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/listening/strips/03.png",
+          "sha256": "d22bb2c957e22b8ee467b6209b81b106900928afec4d6be372ed8a9bb13fec45",
+          "size_bytes": 178236
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/looking/frames/00.png",
+          "sha256": "22b983f1c52620f17ee83c9edcfb427d439deb7e282dad1614df276c2bbd8d59",
+          "size_bytes": 76763
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/looking/frames/01.png",
+          "sha256": "acf390f6795da07491c3514861dea4d4ca0b66b84bf831c1246055080941ae95",
+          "size_bytes": 75151
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/looking/frames/02.png",
+          "sha256": "8fd71e930426d02d02f62d5fb48cbfb35c161ed481435e267d6f717905071038",
+          "size_bytes": 76379
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/looking/frames/03.png",
+          "sha256": "a7034b052a0eb66f15f3ca6ee78e434f6168f047deae4b51ad080184dd2c8aa0",
+          "size_bytes": 74945
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/mediating/frames/00.png",
+          "sha256": "fb093fa93e766e89b433d65e1b3b04a84798a177781cbddbdc6c70e47dcd7abb",
+          "size_bytes": 39683
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/mediating/frames/01.png",
+          "sha256": "24a4e216ded98fa7a450b5294788d42f2f89615c303d924d2a1883fcc506a394",
+          "size_bytes": 43301
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/mediating/frames/02.png",
+          "sha256": "5733abb525f164a74998f96954a5d7348544734c7d81e7edf33aabd96bb3b24b",
+          "size_bytes": 43216
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/mediating/frames/03.png",
+          "sha256": "4e3a1a318c84d0c900e0857e9cb02e16671df9902f9993c2da7ab2698c35d885",
+          "size_bytes": 39881
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/reconcile/frames/00.png",
+          "sha256": "879410a9dfa9b1c5d469d5f7c62f744be9fc83df9b8bd7af548f490ce142636b",
+          "size_bytes": 72491
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/reconcile/frames/01.png",
+          "sha256": "150adf8f51ceb763eb3a362b21a4abf053f59e8b6202f64f46b5d9eb3772d196",
+          "size_bytes": 77516
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/reconcile/frames/02.png",
+          "sha256": "0f8f929c1a2915ef4e636bbf4ea7c1ddb46104b305ef397d97d9c5e2aa6c5e42",
+          "size_bytes": 75819
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/reconcile/frames/03.png",
+          "sha256": "c2a96472c701a5ba2e7caa131434667d7a11a99545d7cd86c099a33806958dcd",
+          "size_bytes": 63645
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/smiling/frames/00.png",
+          "sha256": "0ddf8cea11a992423f931a7606ec0438d76369696a17f6b67fb6f2d225dc9040",
+          "size_bytes": 78784
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/smiling/frames/01.png",
+          "sha256": "751eb13ce10f8e1a789bc9d5643bef0c42ced2473672bfa200f832b0767c6708",
+          "size_bytes": 78432
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/smiling/frames/02.png",
+          "sha256": "681a5bf0901bddf77461c40a14802f52ba5798c5500c902d9c62d39ec7e7dbdb",
+          "size_bytes": 79184
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/smiling/frames/03.png",
+          "sha256": "f2c51e5697eb9c1cf18d6960b444241559f1dd6e3f676b55b656ad08b781cc80",
+          "size_bytes": 78427
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/talking/frames/00.png",
+          "sha256": "ff835a894f4421d4643daa9b1124399b43fd9312100990323c0c26f31cdc78de",
+          "size_bytes": 87701
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/talking/frames/01.png",
+          "sha256": "9397fa448e98582c1d0e3f7f3edcf04b9687f6cfb87187136444e34f4798af8c",
+          "size_bytes": 88734
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/talking/frames/02.png",
+          "sha256": "e23c8feb09441b49307186fc9234ceabc152f444baee25fe5d5c12a0f5226b66",
+          "size_bytes": 87794
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/talking/frames/03.png",
+          "sha256": "88d0f78372c15afc743d66819190efe6ec01d7604455c2eee789a10b105046a8",
+          "size_bytes": 87800
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/turning/frames/00.png",
+          "sha256": "bb63fec3d5eb9ab58a2a819710ab80912e8d3a6c7e1cc6407dd68094e30fda9f",
+          "size_bytes": 46522
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/turning/frames/01.png",
+          "sha256": "87abc0f7e537ed4d66cf779774ded877d551060486467879652bfa0a3cab1eeb",
+          "size_bytes": 46066
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/turning/frames/02.png",
+          "sha256": "2c7b59445c7d769cb282765c215581bbd20117aabd897456b42263f0b9a10022",
+          "size_bytes": 47050
+        },
+        {
+          "path": "spirits/pihu-v3/interactions/turning/frames/03.png",
+          "sha256": "7d4bb4cec98c132ee03f8dbd6859cb6178c813b0d293e0f20da886726cf867ca",
+          "size_bytes": 45564
+        },
+        {
+          "path": "spirits/pihu-v3/spritesheet-extended.png",
+          "sha256": "917ce8111ab0a33d151b2fbd778a7a3a9d54b5b94ba1d1680dbfd17feb5ccbfa",
+          "size_bytes": 3191906
+        }
+      ]
     },
     {
       "id": "piyu",
@@ -50,7 +908,354 @@
       "manifest": "spirits/piyu/spirit.json",
       "sprite_sheet": "spirits/piyu/spritesheet-extended.png",
       "sha256": "a0f144390ea896d82b80d0a9d76c657fc774fc9c4bb9357f4369e3a9ae4e679f",
-      "size_bytes": 2696541
+      "size_bytes": 2696541,
+      "files": [
+        {
+          "path": "spirits/piyu/final/tts-visemes/00.png",
+          "sha256": "d34c39a84d867335cc09e18a0aaca2423ffdb3c9271bac808c266b46c2dca57d",
+          "size_bytes": 36017
+        },
+        {
+          "path": "spirits/piyu/final/tts-visemes/01.png",
+          "sha256": "2a4a102837546c9aa0010054eb8da3a84ab477e8a7b01932aa12bfa9d76ffc94",
+          "size_bytes": 35321
+        },
+        {
+          "path": "spirits/piyu/final/tts-visemes/02.png",
+          "sha256": "588aed806b557c419af8257f48e841e9e5a2138dc85df47e404d167144ace4b8",
+          "size_bytes": 35462
+        },
+        {
+          "path": "spirits/piyu/final/tts-visemes/03.png",
+          "sha256": "0a68bf5b4c3cc48d4ec8f052c70c3a660f05d496d8d1009a4087f10d6e02de6c",
+          "size_bytes": 35604
+        },
+        {
+          "path": "spirits/piyu/final/tts-visemes/04.png",
+          "sha256": "d359e834d9d2d1516458a496edadf2d95af697ba2afd0141a5ccb294fb66ec7d",
+          "size_bytes": 35098
+        },
+        {
+          "path": "spirits/piyu/final/tts-visemes/05.png",
+          "sha256": "20e1f93149bcb61fb1b6cbdec6f841874dcf11cba99529f3d12a3b89c611b804",
+          "size_bytes": 35224
+        },
+        {
+          "path": "spirits/piyu/final/tts-visemes/06.png",
+          "sha256": "d8a7da4f175558f7691fc6d83432280fd38ef7171ec5f1a45057d685dfb6a7c1",
+          "size_bytes": 35305
+        },
+        {
+          "path": "spirits/piyu/final/tts-visemes/07.png",
+          "sha256": "cd45efb6cb220e6e28a3b328f34eb243de840551ddcc244d3dbe5bc034e63011",
+          "size_bytes": 35737
+        },
+        {
+          "path": "spirits/piyu/interactions/cheek-touch/frames/00.png",
+          "sha256": "deaa92555d385631e6ea6e284d8c050af9048ac78cdad995a6358ae8e23bfb6a",
+          "size_bytes": 62548
+        },
+        {
+          "path": "spirits/piyu/interactions/cheek-touch/frames/01.png",
+          "sha256": "bcffb4c9537da6699513ef8c69e8257ab59fe2d00ad93e6c79fa30a569ccea34",
+          "size_bytes": 60456
+        },
+        {
+          "path": "spirits/piyu/interactions/cheek-touch/frames/02.png",
+          "sha256": "db1ee3fb1cdbb2cbe97db5ca04b5cde9784f7e9ebacf27279245ffc1f1a7a103",
+          "size_bytes": 58931
+        },
+        {
+          "path": "spirits/piyu/interactions/cheek-touch/frames/03.png",
+          "sha256": "e9b8340af57fe450aedbc97c6b90ca28fd6291c230c4964cda72629bd1122277",
+          "size_bytes": 60717
+        },
+        {
+          "path": "spirits/piyu/interactions/fight/frames/00.png",
+          "sha256": "68f53281e03f2c3f11a8131519e63a44d49da5810b2675a2c9f473d9bdaf7164",
+          "size_bytes": 88578
+        },
+        {
+          "path": "spirits/piyu/interactions/fight/frames/01.png",
+          "sha256": "763d70a9cf2c2a28df083ed3e9974dc4f639a48f78068b65b6d6cb5e93ccba2a",
+          "size_bytes": 90003
+        },
+        {
+          "path": "spirits/piyu/interactions/fight/frames/02.png",
+          "sha256": "991eafe299c3e7e58a6c5e377e46175275721143fbcca3be4116f425a9794aca",
+          "size_bytes": 106096
+        },
+        {
+          "path": "spirits/piyu/interactions/fight/frames/03.png",
+          "sha256": "803bdee0a22614aa2b498656dc4ed6faa344b6747f12f463ab6581fe77f9b151",
+          "size_bytes": 96112
+        },
+        {
+          "path": "spirits/piyu/interactions/fight/frames/04.png",
+          "sha256": "dd416fe2e1be2dbbedaa253aa07c22f4520ed9ab965b8e011270f314e89cb813",
+          "size_bytes": 105038
+        },
+        {
+          "path": "spirits/piyu/interactions/fight/frames/05.png",
+          "sha256": "fbd02736b6d71abe27a453d64764f905a514a17b781d3773d4c9985c0551212a",
+          "size_bytes": 98886
+        },
+        {
+          "path": "spirits/piyu/interactions/fight/frames/06.png",
+          "sha256": "e3fdf085c035e489be1fc98ba94ae8e09e19a2ff61acbe9e5a6fedac49f8ccda",
+          "size_bytes": 92580
+        },
+        {
+          "path": "spirits/piyu/interactions/fight/frames/07.png",
+          "sha256": "1db02007b2e1c25ac2d0058deb968980b4837f5221aec81b30cb7ec747f49eb5",
+          "size_bytes": 87681
+        },
+        {
+          "path": "spirits/piyu/interactions/handshake/frames/00.png",
+          "sha256": "a2051e9ee026857cddff91c4d2ddfd39a23937902a3c842c9858463f00fbd395",
+          "size_bytes": 71210
+        },
+        {
+          "path": "spirits/piyu/interactions/handshake/frames/01.png",
+          "sha256": "6c4a9027b59bbdaa7905ca334693989a05436394970d7e10b32e3034d3bd1ce2",
+          "size_bytes": 70796
+        },
+        {
+          "path": "spirits/piyu/interactions/handshake/frames/02.png",
+          "sha256": "50866d05c22f0b0cc9d8d5d70c0a45054c3862fc08329707b3d02ec35437622a",
+          "size_bytes": 71768
+        },
+        {
+          "path": "spirits/piyu/interactions/handshake/frames/03.png",
+          "sha256": "b3e0881e4930db2fdc15d82fe7ca4a29203736e55df811f3567c63341074fe45",
+          "size_bytes": 71098
+        },
+        {
+          "path": "spirits/piyu/interactions/high-five/frames/00.png",
+          "sha256": "446e36943927ed498699ae8e88453529bcf1e11a6dedd9e635b91f42b1737aef",
+          "size_bytes": 71653
+        },
+        {
+          "path": "spirits/piyu/interactions/high-five/frames/01.png",
+          "sha256": "b5bab16de3135069650c420b935fac060e10c06fbed5cc9b051a8820bdab446a",
+          "size_bytes": 72896
+        },
+        {
+          "path": "spirits/piyu/interactions/high-five/frames/02.png",
+          "sha256": "0fb62d887f4c05a012f65b47cd4803029d9d58897f1508a237cfac2cc7bfa2d3",
+          "size_bytes": 72602
+        },
+        {
+          "path": "spirits/piyu/interactions/high-five/frames/03.png",
+          "sha256": "dbe61348c99d1b71418561d03286d9e58e9e2b2a47256420278855a015876cb6",
+          "size_bytes": 68913
+        },
+        {
+          "path": "spirits/piyu/interactions/hug/frames/00.png",
+          "sha256": "5dccc3c2fd4670cf764b9a64a539425b36eb9af1ff61e733887e2e38fae0a4cb",
+          "size_bytes": 66769
+        },
+        {
+          "path": "spirits/piyu/interactions/hug/frames/01.png",
+          "sha256": "cdb8ced46ff693c5c9509a6c25e42c28710724598a6723d3bc6e388199e76bdc",
+          "size_bytes": 55023
+        },
+        {
+          "path": "spirits/piyu/interactions/hug/frames/02.png",
+          "sha256": "cf897d64e59546bc20c8d1a578cd75827162e8d3142d206c27aff183066067a1",
+          "size_bytes": 53986
+        },
+        {
+          "path": "spirits/piyu/interactions/hug/frames/03.png",
+          "sha256": "dbf64bf200e7df1da22106a4f9388761ba077b82e23e54f6a1c6c8e3267f6e83",
+          "size_bytes": 58572
+        },
+        {
+          "path": "spirits/piyu/interactions/jealous/frames/00.png",
+          "sha256": "5855793981a4d47d05310e3de3b1a974f190c659e56f93e330e90cf6b5035804",
+          "size_bytes": 32347
+        },
+        {
+          "path": "spirits/piyu/interactions/jealous/frames/01.png",
+          "sha256": "6e32b9da3eb9cac52ebb6bdbf6ac4ff02d030c3e622c8e666c109546501ca277",
+          "size_bytes": 32620
+        },
+        {
+          "path": "spirits/piyu/interactions/jealous/frames/02.png",
+          "sha256": "06efa7d26fd0f83aff4615963741e9a0c4a70fd0d4ad264be96bd44f2014af92",
+          "size_bytes": 32638
+        },
+        {
+          "path": "spirits/piyu/interactions/jealous/frames/03.png",
+          "sha256": "8f7839fca6bcee8d94417a8782562f244ddf44f653a87d09426f5170e51e66a2",
+          "size_bytes": 34020
+        },
+        {
+          "path": "spirits/piyu/interactions/laughing/frames/00.png",
+          "sha256": "281affc9e9690a906f9870c0a5e2602c633e77978ebf6db2704807c337cbadaa",
+          "size_bytes": 70609
+        },
+        {
+          "path": "spirits/piyu/interactions/laughing/frames/01.png",
+          "sha256": "9eb6dd0a447cd28ba5269f5455a83c1908e98b16e2cd5f4d72fe09516f015c5e",
+          "size_bytes": 70244
+        },
+        {
+          "path": "spirits/piyu/interactions/laughing/frames/02.png",
+          "sha256": "2cf32c0f6b6f132792249f0ac9bad0dfd0dd9596c82a455011f1d018c8ca35f1",
+          "size_bytes": 71577
+        },
+        {
+          "path": "spirits/piyu/interactions/laughing/frames/03.png",
+          "sha256": "6048a9ace2bcbb84d28b246b96e3bff5dc239bc6482df93e707fbff650ba3906",
+          "size_bytes": 70334
+        },
+        {
+          "path": "spirits/piyu/interactions/listening/strips/00.png",
+          "sha256": "6930b06d194e6f91076346a24db9035970f0a3385d29e269b5d94a8cba2a370b",
+          "size_bytes": 144556
+        },
+        {
+          "path": "spirits/piyu/interactions/listening/strips/01.png",
+          "sha256": "ad28e8811c565f179f5e5364ae8146aaeb4053b10621702f67d5b2aa45e32e65",
+          "size_bytes": 144019
+        },
+        {
+          "path": "spirits/piyu/interactions/listening/strips/02.png",
+          "sha256": "180975dd65179a2b416b69394df2c7db5dace41f0719c1d10eaeac9beb3fadb9",
+          "size_bytes": 143731
+        },
+        {
+          "path": "spirits/piyu/interactions/listening/strips/03.png",
+          "sha256": "873ecbea6b1ee47d25152d5a26d8be37bb5a9384a5692df4bb706ffe2537b26e",
+          "size_bytes": 147138
+        },
+        {
+          "path": "spirits/piyu/interactions/looking/frames/00.png",
+          "sha256": "fa90bbb5b21a1d578d608838f41e87128e15da120ea46a81d43e639ea3e751e7",
+          "size_bytes": 65824
+        },
+        {
+          "path": "spirits/piyu/interactions/looking/frames/01.png",
+          "sha256": "b20d3e965c6000cedaf450cabbee639c04bd56daf0be8c205e3a61dd7fdb9744",
+          "size_bytes": 65813
+        },
+        {
+          "path": "spirits/piyu/interactions/looking/frames/02.png",
+          "sha256": "efc91fa2bbe78e91d651717d709ceac4f40c08129f1d409b58f2d7efb2172b37",
+          "size_bytes": 65697
+        },
+        {
+          "path": "spirits/piyu/interactions/looking/frames/03.png",
+          "sha256": "52d0d5c90e1bd64be8526dfd6564a2aa456a51971c621f6f5a7bfa048b346549",
+          "size_bytes": 65853
+        },
+        {
+          "path": "spirits/piyu/interactions/mediating/frames/00.png",
+          "sha256": "fb093fa93e766e89b433d65e1b3b04a84798a177781cbddbdc6c70e47dcd7abb",
+          "size_bytes": 39683
+        },
+        {
+          "path": "spirits/piyu/interactions/mediating/frames/01.png",
+          "sha256": "24a4e216ded98fa7a450b5294788d42f2f89615c303d924d2a1883fcc506a394",
+          "size_bytes": 43301
+        },
+        {
+          "path": "spirits/piyu/interactions/mediating/frames/02.png",
+          "sha256": "5733abb525f164a74998f96954a5d7348544734c7d81e7edf33aabd96bb3b24b",
+          "size_bytes": 43216
+        },
+        {
+          "path": "spirits/piyu/interactions/mediating/frames/03.png",
+          "sha256": "4e3a1a318c84d0c900e0857e9cb02e16671df9902f9993c2da7ab2698c35d885",
+          "size_bytes": 39881
+        },
+        {
+          "path": "spirits/piyu/interactions/reconcile/frames/00.png",
+          "sha256": "21bee860ec54257c4e2748939104cda7ebf86f90435843c5c23929d0c6b6b3a4",
+          "size_bytes": 63081
+        },
+        {
+          "path": "spirits/piyu/interactions/reconcile/frames/01.png",
+          "sha256": "473ceff501dd3ca2b1a78a4b46a1fd0287bdfeb7b0003424a259fa56c1e22ae3",
+          "size_bytes": 65866
+        },
+        {
+          "path": "spirits/piyu/interactions/reconcile/frames/02.png",
+          "sha256": "0c50652b33e623ff749f48ee067708905e3755cb5a761a05fb303dc2ee6dadee",
+          "size_bytes": 65824
+        },
+        {
+          "path": "spirits/piyu/interactions/reconcile/frames/03.png",
+          "sha256": "87952d2009e8cf63bc2d37d9ac77dff49c56694e8aadd57d453eb5595a6c0334",
+          "size_bytes": 56352
+        },
+        {
+          "path": "spirits/piyu/interactions/smiling/frames/00.png",
+          "sha256": "4d45baf90a695fd9beacb895bfdc1f9debe75ad48e52b2a9900ecfe6f2ab2bf1",
+          "size_bytes": 65646
+        },
+        {
+          "path": "spirits/piyu/interactions/smiling/frames/01.png",
+          "sha256": "748dc11db7d03cd93f555235d2f5aff75b4067219ea1df2d1cc746492c5a0afd",
+          "size_bytes": 67351
+        },
+        {
+          "path": "spirits/piyu/interactions/smiling/frames/02.png",
+          "sha256": "80659fba1288d615ec615e4b38c0fad179a70e573b34c76b04bd04444be860ac",
+          "size_bytes": 66190
+        },
+        {
+          "path": "spirits/piyu/interactions/smiling/frames/03.png",
+          "sha256": "0a10065bf9cfa42a6c5d7a7b152d24de9d6631cf615352c7bca7748e6d515e17",
+          "size_bytes": 67227
+        },
+        {
+          "path": "spirits/piyu/interactions/talking/frames/00.png",
+          "sha256": "9865d1f570aac8c5064f21ff204f5c358bb2530812ed567aa34444a009116377",
+          "size_bytes": 67882
+        },
+        {
+          "path": "spirits/piyu/interactions/talking/frames/01.png",
+          "sha256": "ef5d12772db849d33b4b9941ab77c9e9d300ca92cd8cda72b37e59766e579ddf",
+          "size_bytes": 68820
+        },
+        {
+          "path": "spirits/piyu/interactions/talking/frames/02.png",
+          "sha256": "0f68e6b4c2df192f42e9ad9628eb9e126df8f71e0c0524aff1441a3d64cbc6a8",
+          "size_bytes": 68677
+        },
+        {
+          "path": "spirits/piyu/interactions/talking/frames/03.png",
+          "sha256": "5a6ab142a62a1d744dde245c3a73ddd08b32c886b4add950a7140857c2392c5f",
+          "size_bytes": 68798
+        },
+        {
+          "path": "spirits/piyu/interactions/turning/frames/00.png",
+          "sha256": "0d1a7f6d53c7abe5c5fe74f58368e61c50cc7b414acad63f764026ee404e3827",
+          "size_bytes": 34011
+        },
+        {
+          "path": "spirits/piyu/interactions/turning/frames/01.png",
+          "sha256": "2755fb65da52ecf8457b1e1bffc2d0fffac16c915ad660f9034dc4f2875702da",
+          "size_bytes": 30934
+        },
+        {
+          "path": "spirits/piyu/interactions/turning/frames/02.png",
+          "sha256": "4d14e3d08ffa0c799774960c91668c8d09f7255215f32081183164e6b08f5a40",
+          "size_bytes": 34898
+        },
+        {
+          "path": "spirits/piyu/interactions/turning/frames/03.png",
+          "sha256": "634ca18cefd5172a6d15e584b7f0228eac18225ede3b40bb7431eafbca1ec867",
+          "size_bytes": 33963
+        },
+        {
+          "path": "spirits/piyu/spritesheet-extended.png",
+          "sha256": "a0f144390ea896d82b80d0a9d76c657fc774fc9c4bb9357f4369e3a9ae4e679f",
+          "size_bytes": 2696541
+        }
+      ]
     }
   ]
 }

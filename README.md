@@ -1,10 +1,10 @@
 # PIHU Spirits Registry
 
-This repository contains downloadable, non-executable Spirit packages for PIHU OS. Each package consists of a declarative `spirit.json` manifest and a PNG sprite sheet.
+This repository contains downloadable, non-executable Spirit packages for PIHU OS. Packages include the artwork used by the desktop renderer: the extended sprite atlas, optional listening and thinking state strips, TTS viseme frames, listening animation strips, and social interaction frame sequences.
 
 ## Registry
 
-`index.json` lists every package, version, relative manifest and sprite-sheet path, size, and SHA-256 digest. The PIHU OS Spirits catalog reads this index and verifies each sprite sheet before installing it into the user's local Spirit library.
+`index.json` lists each Spirit, its manifest and main sprite sheet, plus a SHA-256 digest and byte size for every shipped file. `spirits/<id>/spirit.json` identifies the package assets and supported renderer features. The desktop Spirits catalog reads the index and verifies the main sprite sheet before installing it into the local Spirit library.
 
 ## Package layout
 
@@ -12,6 +12,9 @@ This repository contains downloadable, non-executable Spirit packages for PIHU O
 index.json
 spirits/<id>/spirit.json
 spirits/<id>/spritesheet-extended.png
+spirits/<id>/states/                  # optional listening/thinking strips
+spirits/<id>/final/tts-visemes/       # optional speech mouth frames
+spirits/<id>/interactions/            # optional listening/social animations
 ```
 
-Spirit packages contain artwork only. They do not include scripts, executables, package hooks, or shell commands.
+Only runtime-consumed artwork is published. Image-generation prompts, source/reference art, QA reports, previews, and intermediate raw frames remain in the application source tree. Packages contain artwork and declarative metadata only; they do not include scripts, executables, package hooks, or shell commands.
