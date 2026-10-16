@@ -37,7 +37,8 @@
           "sha256": "9600337a3808e17aee6f249e9dc66c9ec668cb0161bd745f2beb6a03fb2c1f8d",
           "size_bytes": 2970393
         }
-      ]
+      ],
+      "deprecated": false
     },
     {
       "id": "pihu",
@@ -434,7 +435,8 @@
           "sha256": "917ce8111ab0a33d151b2fbd778a7a3a9d54b5b94ba1d1680dbfd17feb5ccbfa",
           "size_bytes": 3191906
         }
-      ]
+      ],
+      "deprecated": false
     },
     {
       "id": "pihu-v2",
@@ -501,7 +503,8 @@
           "sha256": "617730c3fcc9b7deaa7520ed755ea1f92fcd105918e7f1b2999c456c6dedb4b4",
           "size_bytes": 246147
         }
-      ]
+      ],
+      "deprecated": false
     },
     {
       "id": "pihu-v3",
@@ -898,7 +901,8 @@
           "sha256": "917ce8111ab0a33d151b2fbd778a7a3a9d54b5b94ba1d1680dbfd17feb5ccbfa",
           "size_bytes": 3191906
         }
-      ]
+      ],
+      "deprecated": false
     },
     {
       "id": "piyu",
@@ -1255,7 +1259,8 @@
           "sha256": "a0f144390ea896d82b80d0a9d76c657fc774fc9c4bb9357f4369e3a9ae4e679f",
           "size_bytes": 2696541
         }
-      ]
+      ],
+      "deprecated": false
     }
   ]
 }

@@ -4,7 +4,7 @@ This repository contains downloadable, non-executable Spirit packages for PIHU O
 
 ## Registry
 
-`index.json` lists each Spirit, its manifest and main sprite sheet, plus a SHA-256 digest and byte size for every shipped file. `spirits/<id>/spirit.json` identifies the package assets and supported renderer features. The desktop Spirits catalog reads the index and verifies the main sprite sheet before installing it into the local Spirit library.
+`index.json` lists each Spirit, its manifest and main sprite sheet, plus a SHA-256 digest and byte size for every shipped file. `spirits/<id>/spirit.json` identifies the package assets and supported renderer features. Set `deprecated` to `true` in the manifest or index entry to prevent the Spirit from being added to Pihu; it defaults to `false`. The desktop Spirits catalog reads the index and verifies the main sprite sheet before installing it into the local Spirit library.
 
 ## Package layout
 

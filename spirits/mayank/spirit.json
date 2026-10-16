@@ -18,5 +18,6 @@
   },
   "supported_features": [
     "sprite-animation"
-  ]
+  ],
+  "deprecated": false
 }
