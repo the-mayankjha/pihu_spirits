@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "type": "spirits",
+  "id": "pihu-v2-1-2",
+  "name": "pihu-v2-1-2",
+  "display_name": "Pihu_v2",
+  "description": "Pihu_v2, the playful and intelligent companion from the 1.2.0 animation collection.",
+  "version": "1.2.0",
+  "deprecated": false,
+  "author": "Mayank Jha (PIHU)",
+  "category": "Spirits",
+  "tags": [
+    "companion",
+    "pihu_v2",
+    "directional-animation"
+  ],
+  "assets": {
+    "sprite_sheet": "spritesheet-extended.png",
+    "listening_state": "states/listening.png",
+    "talking_frames": "final/tts-visemes/"
+  },
+  "supported_features": [
+    "sprite-animation",
+    "look-directions",
+    "listening",
+    "visemes"
+  ]
+}

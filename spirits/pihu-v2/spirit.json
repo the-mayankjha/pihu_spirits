@@ -4,8 +4,8 @@
   "id": "pihu-v2",
   "name": "pihu-v2",
   "display_name": "Pihu v2",
-  "description": "Pihu v2. A curious, playful companion with curly dark hair, pink glasses and a floral kurti.",
-  "version": "1.2.0",
+  "description": "A curious companion with curly dark hair, pink glasses and a floral kurti.",
+  "version": "1.0.0",
   "author": "Mayank Jha (PIHU)",
   "category": "Spirits",
   "tags": [
@@ -14,13 +14,11 @@
   "assets": {
     "sprite_sheet": "spritesheet-extended.png",
     "listening_state": "states/listening.png",
+    "thinking_state": "states/thinking.png",
     "talking_frames": "final/tts-visemes/"
   },
   "supported_features": [
-    "sprite-animation",
-    "look-directions",
-    "listening",
-    "visemes"
+    "sprite-animation"
   ],
-  "deprecated": false
+  "deprecated": true
 }

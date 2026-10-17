@@ -441,67 +441,193 @@
     {
       "id": "pihu-v2",
       "name": "Pihu v2",
-      "description": "Pihu v2. A curious, playful companion with curly dark hair, pink glasses and a floral kurti.",
-      "version": "1.2.0",
+      "description": "A curious companion with curly dark hair, pink glasses and a floral kurti.",
+      "version": "1.0.0",
       "manifest": "spirits/pihu-v2/spirit.json",
       "sprite_sheet": "spirits/pihu-v2/spritesheet-extended.png",
-      "sha256": "994649a32c8522e1f776873e5e764f33eeba761c64ef94820c0855240e772270",
-      "size_bytes": 2279152,
+      "sha256": "2d5e297243c10cdfed7af33e6546843cddf6aaad3eba2f1906c84477174c6adf",
+      "size_bytes": 2925295,
       "files": [
         {
           "path": "spirits/pihu-v2/final/tts-visemes/00.png",
-          "sha256": "b748f6d416cfbcb021e1a139a22272e86c3a479134aad790402374f96a284075",
-          "size_bytes": 45097
+          "sha256": "0cb0372e69fba3d34794de33533f8ad3c44bb02ce0e21baa0c01818e3776efdc",
+          "size_bytes": 36090
         },
         {
           "path": "spirits/pihu-v2/final/tts-visemes/01.png",
-          "sha256": "ad1919b6703e729e1297e0cd1ca549840b65f51199b2afcfe4956c861fe2d280",
-          "size_bytes": 44760
+          "sha256": "47e5ffd643581fee65e054ed2481357a16e5e5b35a07989ba7e3e0894aaeeddb",
+          "size_bytes": 37557
         },
         {
           "path": "spirits/pihu-v2/final/tts-visemes/02.png",
-          "sha256": "394a8be69871ad2eaeddcea5eb24fa0dc464e21024b693de86089184d5f1f78e",
-          "size_bytes": 44796
+          "sha256": "7d75a6b48f6950c3693e9e05873d8e38c179af4e2efb2400f06880fdcbd24210",
+          "size_bytes": 37676
         },
         {
           "path": "spirits/pihu-v2/final/tts-visemes/03.png",
-          "sha256": "f50778ecade257fe8555c420e5a302901b60cfbe909d95005fef2c11c251d73d",
-          "size_bytes": 44867
+          "sha256": "63c9577f709243d3d1d537666f0484c9ab1a623ff12fad63ca5aef965a42b0e6",
+          "size_bytes": 37587
         },
         {
           "path": "spirits/pihu-v2/final/tts-visemes/04.png",
-          "sha256": "851ebdfdefd5787dd519dd421b38d1c110f18f1e13e2b57aa1495f5592d826b3",
-          "size_bytes": 44812
+          "sha256": "0cb3baccf134b8ef33eca41e73036ab7eab1f9e00aa04348f6847defc6e11c43",
+          "size_bytes": 37482
         },
         {
           "path": "spirits/pihu-v2/final/tts-visemes/05.png",
-          "sha256": "69139c3d770008ba9392109fd99723b41e8085fc7b52aec7ca8b27016f76a3e4",
-          "size_bytes": 44880
+          "sha256": "0a9c60fa82d059a5c485456bce9e24f3cb21f26ae9d466dcd400b21582f8c5d2",
+          "size_bytes": 37693
         },
         {
           "path": "spirits/pihu-v2/final/tts-visemes/06.png",
-          "sha256": "5cfce466c99fb27b4ca692b05022af0b5ac5908d5888b250cdf4c1ad17c25b37",
-          "size_bytes": 45030
+          "sha256": "d82c91b894b2b5a07d7b97d0479cd3a6997d8bb61ceb3e177d417cd852a1bbf9",
+          "size_bytes": 37380
         },
         {
           "path": "spirits/pihu-v2/final/tts-visemes/07.png",
-          "sha256": "79f038e6fb8bc6ea48812aa4c635f82387c079a55dac33c26d464d3684df03a6",
-          "size_bytes": 45153
+          "sha256": "f3841da19a0c3f05cfaa4364ac390652e15126504a395b7acc9f53bc2d91f233",
+          "size_bytes": 37128
         },
         {
           "path": "spirits/pihu-v2/spritesheet-extended.png",
-          "sha256": "994649a32c8522e1f776873e5e764f33eeba761c64ef94820c0855240e772270",
-          "size_bytes": 2279152
+          "sha256": "2d5e297243c10cdfed7af33e6546843cddf6aaad3eba2f1906c84477174c6adf",
+          "size_bytes": 2925295
         },
         {
           "path": "spirits/pihu-v2/states/listening.png",
-          "sha256": "9342bbde2cae7b215d1aa289f06b5bb55828500e38b926ac9677795dc53c5c89",
-          "size_bytes": 277082
+          "sha256": "63874c76d535adda6003fa14f34e877cc103bdda6135d75c9d4ae0ea2e21d1c7",
+          "size_bytes": 358964
         },
         {
           "path": "spirits/pihu-v2/states/thinking.png",
           "sha256": "617730c3fcc9b7deaa7520ed755ea1f92fcd105918e7f1b2999c456c6dedb4b4",
           "size_bytes": 246147
+        }
+      ],
+      "deprecated": true
+    },
+    {
+      "id": "pihu-v2-1-2",
+      "name": "Pihu_v2",
+      "description": "Pihu_v2, the playful and intelligent companion from the 1.2.0 animation collection.",
+      "version": "1.2.0",
+      "manifest": "spirits/pihu-v2-1-2/spirit.json",
+      "sprite_sheet": "spirits/pihu-v2-1-2/spritesheet-extended.png",
+      "sha256": "994649a32c8522e1f776873e5e764f33eeba761c64ef94820c0855240e772270",
+      "size_bytes": 2279152,
+      "files": [
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/00.png",
+          "sha256": "b748f6d416cfbcb021e1a139a22272e86c3a479134aad790402374f96a284075",
+          "size_bytes": 45097
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/01.png",
+          "sha256": "ad1919b6703e729e1297e0cd1ca549840b65f51199b2afcfe4956c861fe2d280",
+          "size_bytes": 44760
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/02.png",
+          "sha256": "394a8be69871ad2eaeddcea5eb24fa0dc464e21024b693de86089184d5f1f78e",
+          "size_bytes": 44796
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/03.png",
+          "sha256": "f50778ecade257fe8555c420e5a302901b60cfbe909d95005fef2c11c251d73d",
+          "size_bytes": 44867
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/04.png",
+          "sha256": "851ebdfdefd5787dd519dd421b38d1c110f18f1e13e2b57aa1495f5592d826b3",
+          "size_bytes": 44812
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/05.png",
+          "sha256": "69139c3d770008ba9392109fd99723b41e8085fc7b52aec7ca8b27016f76a3e4",
+          "size_bytes": 44880
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/06.png",
+          "sha256": "5cfce466c99fb27b4ca692b05022af0b5ac5908d5888b250cdf4c1ad17c25b37",
+          "size_bytes": 45030
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/07.png",
+          "sha256": "79f038e6fb8bc6ea48812aa4c635f82387c079a55dac33c26d464d3684df03a6",
+          "size_bytes": 45153
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/spritesheet-extended.png",
+          "sha256": "994649a32c8522e1f776873e5e764f33eeba761c64ef94820c0855240e772270",
+          "size_bytes": 2279152
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/states/listening.png",
+          "sha256": "9342bbde2cae7b215d1aa289f06b5bb55828500e38b926ac9677795dc53c5c89",
+          "size_bytes": 277082
+        }
+      ],
+      "deprecated": false
+    },
+    {
+      "id": "pihu-v2-1-2",
+      "name": "Pihu_v2",
+      "description": "Pihu_v2, the playful and intelligent companion from the 1.2.0 animation collection.",
+      "version": "1.2.0",
+      "manifest": "spirits/pihu-v2-1-2/spirit.json",
+      "sprite_sheet": "spirits/pihu-v2-1-2/spritesheet-extended.png",
+      "sha256": "994649a32c8522e1f776873e5e764f33eeba761c64ef94820c0855240e772270",
+      "size_bytes": 2279152,
+      "files": [
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/00.png",
+          "sha256": "b748f6d416cfbcb021e1a139a22272e86c3a479134aad790402374f96a284075",
+          "size_bytes": 45097
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/01.png",
+          "sha256": "ad1919b6703e729e1297e0cd1ca549840b65f51199b2afcfe4956c861fe2d280",
+          "size_bytes": 44760
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/02.png",
+          "sha256": "394a8be69871ad2eaeddcea5eb24fa0dc464e21024b693de86089184d5f1f78e",
+          "size_bytes": 44796
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/03.png",
+          "sha256": "f50778ecade257fe8555c420e5a302901b60cfbe909d95005fef2c11c251d73d",
+          "size_bytes": 44867
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/04.png",
+          "sha256": "851ebdfdefd5787dd519dd421b38d1c110f18f1e13e2b57aa1495f5592d826b3",
+          "size_bytes": 44812
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/05.png",
+          "sha256": "69139c3d770008ba9392109fd99723b41e8085fc7b52aec7ca8b27016f76a3e4",
+          "size_bytes": 44880
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/06.png",
+          "sha256": "5cfce466c99fb27b4ca692b05022af0b5ac5908d5888b250cdf4c1ad17c25b37",
+          "size_bytes": 45030
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/final/tts-visemes/07.png",
+          "sha256": "79f038e6fb8bc6ea48812aa4c635f82387c079a55dac33c26d464d3684df03a6",
+          "size_bytes": 45153
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/spritesheet-extended.png",
+          "sha256": "994649a32c8522e1f776873e5e764f33eeba761c64ef94820c0855240e772270",
+          "size_bytes": 2279152
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/states/listening.png",
+          "sha256": "9342bbde2cae7b215d1aa289f06b5bb55828500e38b926ac9677795dc53c5c89",
+          "size_bytes": 277082
         }
       ],
       "deprecated": false
