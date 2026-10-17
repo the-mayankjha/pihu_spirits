@@ -4,8 +4,8 @@
   "id": "pihu-v2-1-2",
   "name": "pihu-v2-1-2",
   "display_name": "Pihu_v2",
-  "description": "Pihu_v2, the playful and intelligent companion from the 1.2.0 animation collection.",
-  "version": "1.2.0",
+  "description": "Pihu_v2 with idle performances, expressive speech, listening transitions, and browser-work animations.",
+  "version": "1.3.0",
   "deprecated": false,
   "author": "Mayank Jha (PIHU)",
   "category": "Spirits",
@@ -23,6 +23,94 @@
     "sprite-animation",
     "look-directions",
     "listening",
-    "visemes"
-  ]
+    "visemes",
+    "idle-animations",
+    "expressive-talking",
+    "listening-transition",
+    "browser-automation"
+  ],
+  "animations": {
+    "idle_guitar": {
+      "path": "animations/idle/guitar.png",
+      "frames": 6,
+      "fps": 6,
+      "trigger": "idle"
+    },
+    "idle_sitting": {
+      "path": "animations/idle/sitting.png",
+      "frames": 6,
+      "fps": 6,
+      "trigger": "idle"
+    },
+    "idle_butterfly": {
+      "path": "animations/idle/butterfly.png",
+      "frames": 6,
+      "fps": 6,
+      "trigger": "idle"
+    },
+    "idle_cat": {
+      "path": "animations/idle/cat.png",
+      "frames": 6,
+      "fps": 6,
+      "trigger": "idle"
+    },
+    "idle_hairflip": {
+      "path": "animations/idle/hairflip.png",
+      "frames": 6,
+      "fps": 6,
+      "trigger": "idle"
+    },
+    "idle_pouting": {
+      "path": "animations/idle/pouting.png",
+      "frames": 6,
+      "fps": 6,
+      "trigger": "idle"
+    },
+    "talking": {
+      "path": "animations/talking/talking.png",
+      "frames": 8,
+      "fps": 10,
+      "trigger": "speaking"
+    },
+    "talking_expressive": {
+      "path": "animations/talking/expressive.png",
+      "frames": 8,
+      "fps": 8,
+      "trigger": "speaking"
+    },
+    "headphones_transition": {
+      "path": "animations/listening/headphones-transition.png",
+      "frames": 8,
+      "fps": 10,
+      "trigger": "listening-entry-and-exit",
+      "segments": {
+        "put_on": {
+          "start_frame": 0,
+          "frames": 5
+        },
+        "take_off": {
+          "start_frame": 5,
+          "frames": 3
+        }
+      }
+    },
+    "focused_listening": {
+      "path": "animations/listening/focused.png",
+      "frames": 6,
+      "fps": 6,
+      "trigger": "listening"
+    },
+    "browser_automation": {
+      "path": "animations/browser/automation.png",
+      "frames": 8,
+      "fps": 8,
+      "trigger": "pihu-web-search-mcp"
+    },
+    "browser_automation_enhanced": {
+      "path": "animations/browser/automation-enhanced.png",
+      "frames": 8,
+      "fps": 8,
+      "trigger": "playwright-mcp"
+    }
+  }
 }

@@ -509,13 +509,73 @@
     {
       "id": "pihu-v2-1-2",
       "name": "Pihu_v2",
-      "description": "Pihu_v2, the playful and intelligent companion from the 1.2.0 animation collection.",
-      "version": "1.2.0",
+      "description": "Pihu_v2 with idle performances, expressive speech, listening transitions, and browser-work animations.",
+      "version": "1.3.0",
       "manifest": "spirits/pihu-v2-1-2/spirit.json",
       "sprite_sheet": "spirits/pihu-v2-1-2/spritesheet-extended.png",
       "sha256": "994649a32c8522e1f776873e5e764f33eeba761c64ef94820c0855240e772270",
       "size_bytes": 2279152,
       "files": [
+        {
+          "path": "spirits/pihu-v2-1-2/animations/browser/automation-enhanced.png",
+          "sha256": "21c82a94f9d2fc680229bcf3ac81154fdbb187bf2fbb0a522532fdb789e3b6d0",
+          "size_bytes": 423180
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/animations/browser/automation.png",
+          "sha256": "f4059590315ab1308e9a55c1f4826f57da409d6f65d70df7bf33b50cad412963",
+          "size_bytes": 424732
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/animations/idle/butterfly.png",
+          "sha256": "af146c7d6f89f8b9e1fe3c50daf6b44d24909e13e4437ad33d0718db0b5c1ea3",
+          "size_bytes": 272593
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/animations/idle/cat.png",
+          "sha256": "a7ab5f8b9231a1b3529e2d6bc94ce4b6d2076405ea5e8b1c19a45d3244929745",
+          "size_bytes": 231882
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/animations/idle/guitar.png",
+          "sha256": "511d1fa49eac05cd7be4400f9bb2633e823e15d231f7d38e4c0113d2d8587e01",
+          "size_bytes": 270849
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/animations/idle/hairflip.png",
+          "sha256": "175e1e891d4feab8b476957d74cadf39a98f56477d644e7c5418f7c794c06d0c",
+          "size_bytes": 272396
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/animations/idle/pouting.png",
+          "sha256": "ecc80d45de1caea3c725d9bfa8a3b9052c780d23bb565529160d90f0bffaad43",
+          "size_bytes": 256987
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/animations/idle/sitting.png",
+          "sha256": "0a2b75842120ac00aabb3a1cd71f0a5b1d78ca56b39c1a17e4c0cf9ef9f80bfe",
+          "size_bytes": 259415
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/animations/listening/focused.png",
+          "sha256": "9342bbde2cae7b215d1aa289f06b5bb55828500e38b926ac9677795dc53c5c89",
+          "size_bytes": 277082
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/animations/listening/headphones-transition.png",
+          "sha256": "25c63b47ef29ac27bb41d6b35500a4712e35f108a6a03773fc0d014decc42a10",
+          "size_bytes": 315427
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/animations/talking/expressive.png",
+          "sha256": "674c7843bdeac2532bb2aa55f6ea6c52ecbf1ecad5d5fd4f34af94991b6b14c5",
+          "size_bytes": 332649
+        },
+        {
+          "path": "spirits/pihu-v2-1-2/animations/talking/talking.png",
+          "sha256": "503413425effee86be70a6fe22ff9ae6c23a36fdecc4c6d55fb9e1c0ee42b670",
+          "size_bytes": 339679
+        },
         {
           "path": "spirits/pihu-v2-1-2/final/tts-visemes/00.png",
           "sha256": "b748f6d416cfbcb021e1a139a22272e86c3a479134aad790402374f96a284075",

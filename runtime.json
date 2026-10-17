@@ -14,11 +14,17 @@
     { "id": "review", "label": "Review", "row": 8, "frames": 6, "fps": 6 }
   ],
   "special_poses": [
-    { "id": "cat-play", "source": "running", "row": 7, "frames": 6, "fps": 4 },
-    { "id": "hair-flip", "source": "review", "row": 8, "frames": 6, "fps": 6 },
-    { "id": "speaking", "row": 3, "frames": 8, "fps": 10, "assets": "talking_frames" },
-    { "id": "listening", "row": 0, "frames": 16, "fps": 8, "assets": "listening_frames" },
-    { "id": "thinking", "source": "running", "row": 7, "frames": 6, "fps": 6 }
+    { "id": "guitar", "source": "idle", "row": 0, "frames": 6, "fps": 6, "assets": "animations/idle/guitar.png" },
+    { "id": "sitting", "source": "idle", "row": 0, "frames": 6, "fps": 6, "assets": "animations/idle/sitting.png" },
+    { "id": "butterfly", "source": "idle", "row": 0, "frames": 6, "fps": 6, "assets": "animations/idle/butterfly.png" },
+    { "id": "cat-play", "source": "running", "row": 7, "frames": 6, "fps": 6, "assets": "animations/idle/cat.png" },
+    { "id": "hair-flip", "source": "review", "row": 8, "frames": 6, "fps": 6, "assets": "animations/idle/hairflip.png" },
+    { "id": "pouting", "source": "review", "row": 8, "frames": 6, "fps": 6, "assets": "animations/idle/pouting.png" },
+    { "id": "speaking", "row": 8, "frames": 16, "fps": 8, "assets": "animations/talking/expressive.png + animations/talking/talking.png" },
+    { "id": "headphones-transition", "source": "waiting", "row": 6, "frames": 8, "fps": 10, "assets": "animations/listening/headphones-transition.png" },
+    { "id": "listening", "source": "waiting", "row": 6, "frames": 6, "fps": 6, "assets": "animations/listening/focused.png" },
+    { "id": "browser-automation", "source": "running", "row": 7, "frames": 8, "fps": 8, "assets": "animations/browser/automation.png" },
+    { "id": "browser-automation-enhanced", "source": "running", "row": 7, "frames": 8, "fps": 8, "assets": "animations/browser/automation-enhanced.png" }
   ],
   "state_mapping": {
     "idle": "idle", "sleeping": "idle", "wake": "waving", "listening": "waiting",
@@ -27,16 +33,23 @@
   },
   "activity_rules": [
     { "when": "agent or orb state is error", "animation": "failed" },
-    { "when": "voice is speaking or orb state is speaking", "animation": "speaking" },
-    { "when": "agent is thinking or executing", "animation": "running" },
-    { "when": "processing", "animation": "running" },
+    { "when": "voice is speaking", "animation": "alternate expressive and original talking strips" },
+    { "when": "voice listening starts", "animation": "put headphones on, then enter focused listening loop" },
+    { "when": "voice listening ends", "animation": "finish focused loop, then take headphones off" },
+    { "when": "Playwright MCP is running", "animation": "enhanced browser automation" },
+    { "when": "Web Search MCP is running", "animation": "browser automation" },
     { "when": "approval is pending", "animation": "review when reviewing, otherwise waiting" },
     { "when": "agent reports success", "animation": "jumping" },
     { "when": "no active work", "animation": "idle" }
   ],
   "idle_rules": [
-    { "after_ms": 12000, "duration_ms": 1000, "animation": "hair-flip" },
-    { "after_ms": 20000, "animation": "cat-play" },
+    { "after_ms": 12000, "duration_ms": 6000, "animation": "hair-flip" },
+    { "after_ms": 18000, "duration_ms": 6000, "animation": "cat-play" },
+    { "after_ms": 24000, "duration_ms": 6000, "animation": "sitting" },
+    { "after_ms": 30000, "duration_ms": 6000, "animation": "butterfly" },
+    { "after_ms": 36000, "duration_ms": 6000, "animation": "guitar" },
+    { "after_ms": 42000, "duration_ms": 6000, "animation": "pouting" },
+    { "after_ms": 54000, "duration_ms": 12000, "animation": "idle" },
     { "condition": "cursor moves at least 24 px", "animation": "look direction; 16 directions across atlas rows 9 and 10" }
   ],
   "interactions": [
