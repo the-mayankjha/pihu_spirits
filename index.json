@@ -570,69 +570,6 @@
       "deprecated": false
     },
     {
-      "id": "pihu-v2-1-2",
-      "name": "Pihu_v2",
-      "description": "Pihu_v2, the playful and intelligent companion from the 1.2.0 animation collection.",
-      "version": "1.2.0",
-      "manifest": "spirits/pihu-v2-1-2/spirit.json",
-      "sprite_sheet": "spirits/pihu-v2-1-2/spritesheet-extended.png",
-      "sha256": "994649a32c8522e1f776873e5e764f33eeba761c64ef94820c0855240e772270",
-      "size_bytes": 2279152,
-      "files": [
-        {
-          "path": "spirits/pihu-v2-1-2/final/tts-visemes/00.png",
-          "sha256": "b748f6d416cfbcb021e1a139a22272e86c3a479134aad790402374f96a284075",
-          "size_bytes": 45097
-        },
-        {
-          "path": "spirits/pihu-v2-1-2/final/tts-visemes/01.png",
-          "sha256": "ad1919b6703e729e1297e0cd1ca549840b65f51199b2afcfe4956c861fe2d280",
-          "size_bytes": 44760
-        },
-        {
-          "path": "spirits/pihu-v2-1-2/final/tts-visemes/02.png",
-          "sha256": "394a8be69871ad2eaeddcea5eb24fa0dc464e21024b693de86089184d5f1f78e",
-          "size_bytes": 44796
-        },
-        {
-          "path": "spirits/pihu-v2-1-2/final/tts-visemes/03.png",
-          "sha256": "f50778ecade257fe8555c420e5a302901b60cfbe909d95005fef2c11c251d73d",
-          "size_bytes": 44867
-        },
-        {
-          "path": "spirits/pihu-v2-1-2/final/tts-visemes/04.png",
-          "sha256": "851ebdfdefd5787dd519dd421b38d1c110f18f1e13e2b57aa1495f5592d826b3",
-          "size_bytes": 44812
-        },
-        {
-          "path": "spirits/pihu-v2-1-2/final/tts-visemes/05.png",
-          "sha256": "69139c3d770008ba9392109fd99723b41e8085fc7b52aec7ca8b27016f76a3e4",
-          "size_bytes": 44880
-        },
-        {
-          "path": "spirits/pihu-v2-1-2/final/tts-visemes/06.png",
-          "sha256": "5cfce466c99fb27b4ca692b05022af0b5ac5908d5888b250cdf4c1ad17c25b37",
-          "size_bytes": 45030
-        },
-        {
-          "path": "spirits/pihu-v2-1-2/final/tts-visemes/07.png",
-          "sha256": "79f038e6fb8bc6ea48812aa4c635f82387c079a55dac33c26d464d3684df03a6",
-          "size_bytes": 45153
-        },
-        {
-          "path": "spirits/pihu-v2-1-2/spritesheet-extended.png",
-          "sha256": "994649a32c8522e1f776873e5e764f33eeba761c64ef94820c0855240e772270",
-          "size_bytes": 2279152
-        },
-        {
-          "path": "spirits/pihu-v2-1-2/states/listening.png",
-          "sha256": "9342bbde2cae7b215d1aa289f06b5bb55828500e38b926ac9677795dc53c5c89",
-          "size_bytes": 277082
-        }
-      ],
-      "deprecated": false
-    },
-    {
       "id": "pihu-v3",
       "name": "Pihu v3",
       "description": "A cheerful companion with long dark curls, pink glasses and a floral kurta.",
