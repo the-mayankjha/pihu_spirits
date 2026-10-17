@@ -510,7 +510,7 @@
       "id": "pihu-v2-1-2",
       "name": "Pihu_v2",
       "description": "Pihu_v2 with idle performances, expressive speech, listening transitions, and browser-work animations.",
-      "version": "1.4.0",
+      "version": "1.4.1",
       "manifest": "spirits/pihu-v2-1-2/spirit.json",
       "sprite_sheet": "spirits/pihu-v2-1-2/spritesheet-extended.png",
       "sha256": "994649a32c8522e1f776873e5e764f33eeba761c64ef94820c0855240e772270",

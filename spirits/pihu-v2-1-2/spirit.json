@@ -5,7 +5,7 @@
   "name": "pihu-v2-1-2",
   "display_name": "Pihu_v2",
   "description": "Pihu_v2 with idle performances, expressive speech, listening transitions, and browser-work animations.",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "deprecated": false,
   "author": "Mayank Jha (PIHU)",
   "category": "Spirits",
@@ -42,11 +42,15 @@
       "fps": 6,
       "trigger": "browser-mcp-entry-and-exit",
       "segments": {
-        "sit_down": {
+        "browser_sit_down": {
           "start_frame": 0,
           "frames": 4
         },
-        "stand_up": {
+        "cat_stand_up": {
+          "start_frame": 4,
+          "frames": 2
+        },
+        "browser_stand_up": {
           "start_frame": 3,
           "frames": 3
         }
@@ -62,13 +66,43 @@
       "path": "animations/idle/cat.png",
       "frames": 6,
       "fps": 6,
-      "trigger": "idle"
+      "trigger": "idle",
+      "segments": {
+        "seated_loop": {
+          "start_frame": 2,
+          "frames": 3,
+          "loop": true
+        },
+        "finish": {
+          "start_frame": 5,
+          "frames": 1,
+          "loop": false
+        },
+        "rise": {
+          "asset": "animations/idle/sitting.png",
+          "start_frame": 4,
+          "frames": 2,
+          "loop": false
+        }
+      }
     },
     "idle_hairflip": {
       "path": "animations/idle/hairflip.png",
       "frames": 6,
       "fps": 6,
-      "trigger": "idle"
+      "trigger": "idle",
+      "segments": {
+        "single_pass": {
+          "start_frame": 0,
+          "frames": 6,
+          "loop": false
+        },
+        "repeat_after_guitar": {
+          "after_idle_ms": 33000,
+          "frames": 6,
+          "loop": false
+        }
+      }
     },
     "idle_pouting": {
       "path": "animations/idle/pouting.png",
