@@ -5,7 +5,7 @@
   "name": "pihu-v2-1-2",
   "display_name": "Pihu_v2",
   "description": "Pihu_v2 with idle performances, expressive speech, listening transitions, and browser-work animations.",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "deprecated": false,
   "author": "Mayank Jha (PIHU)",
   "category": "Spirits",
@@ -40,7 +40,17 @@
       "path": "animations/idle/sitting.png",
       "frames": 6,
       "fps": 6,
-      "trigger": "idle"
+      "trigger": "browser-mcp-entry-and-exit",
+      "segments": {
+        "sit_down": {
+          "start_frame": 0,
+          "frames": 4
+        },
+        "stand_up": {
+          "start_frame": 3,
+          "frames": 3
+        }
+      }
     },
     "idle_butterfly": {
       "path": "animations/idle/butterfly.png",
